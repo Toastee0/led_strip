@@ -1,3 +1,6 @@
+This is a copy of the LED strip sample from the zepher samples with overlays and bindings for the xiao Nrf54L15 to be able to use the &xiao_spi mosi pin d10.
+Tested with nrf sdk 3.1.0
+
 .. zephyr:code-sample:: led-strip
    :name: LED strip
    :relevant-api: led_strip_interface
