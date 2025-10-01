@@ -1,0 +1,2 @@
+# Load board Kconfig descriptions.
+osource "C:/ncs/main/zephyr/boards/seeed/xiao_nrf54l15/Kconfig.xiao_nrf54l15"

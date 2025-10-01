@@ -1,0 +1,13 @@
+# Target labels
+ led_strip
+# Source files and their labels
+C:/old_nrfprojects/WS2812_nrf54l15/led_strip/build/_sysbuild/sysbuild/images/CMakeFiles/led_strip
+C:/old_nrfprojects/WS2812_nrf54l15/led_strip/build/_sysbuild/sysbuild/images/CMakeFiles/led_strip.rule
+C:/old_nrfprojects/WS2812_nrf54l15/led_strip/build/_sysbuild/sysbuild/images/CMakeFiles/led_strip-complete.rule
+C:/old_nrfprojects/WS2812_nrf54l15/led_strip/build/_sysbuild/sysbuild/images/led_strip-prefix/src/led_strip-stamp/led_strip-build.rule
+C:/old_nrfprojects/WS2812_nrf54l15/led_strip/build/_sysbuild/sysbuild/images/led_strip-prefix/src/led_strip-stamp/led_strip-configure.rule
+C:/old_nrfprojects/WS2812_nrf54l15/led_strip/build/_sysbuild/sysbuild/images/led_strip-prefix/src/led_strip-stamp/led_strip-download.rule
+C:/old_nrfprojects/WS2812_nrf54l15/led_strip/build/_sysbuild/sysbuild/images/led_strip-prefix/src/led_strip-stamp/led_strip-install.rule
+C:/old_nrfprojects/WS2812_nrf54l15/led_strip/build/_sysbuild/sysbuild/images/led_strip-prefix/src/led_strip-stamp/led_strip-mkdir.rule
+C:/old_nrfprojects/WS2812_nrf54l15/led_strip/build/_sysbuild/sysbuild/images/led_strip-prefix/src/led_strip-stamp/led_strip-patch.rule
+C:/old_nrfprojects/WS2812_nrf54l15/led_strip/build/_sysbuild/sysbuild/images/led_strip-prefix/src/led_strip-stamp/led_strip-update.rule

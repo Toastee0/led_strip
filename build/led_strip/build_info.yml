@@ -1,0 +1,56 @@
+cmake:
+  application:
+    configuration-dir: 'C:/old_nrfprojects/WS2812_nrf54l15/led_strip'
+    source-dir: 'C:/old_nrfprojects/WS2812_nrf54l15/led_strip'
+  board:
+    name: 'xiao_nrf54l15'
+    path:
+     - 'C:/ncs/main/zephyr/boards/seeed/xiao_nrf54l15'
+    qualifiers: 'nrf54l15/cpuapp'
+    revision: ''
+  devicetree:
+    bindings-dirs:
+     - 'C:/ncs/main/nrf/dts/bindings'
+     - 'C:/ncs/main/zephyr/dts/bindings'
+    files:
+     - 'C:/ncs/main/zephyr/boards/seeed/xiao_nrf54l15/xiao_nrf54l15_nrf54l15_cpuapp.dts'
+     - 'C:/old_nrfprojects/WS2812_nrf54l15/led_strip/boards/xiao_nrf54l15_nrf54l15_cpuapp.overlay'
+    include-dirs:
+     - 'C:/ncs/main/nrf/include'
+     - 'C:/ncs/main/nrf/dts/common'
+     - 'C:/ncs/main/nrf/dts/riscv'
+     - 'C:/ncs/main/nrf/dts/arm'
+     - 'C:/ncs/main/nrf/dts'
+     - 'C:/ncs/main/zephyr/include'
+     - 'C:/ncs/main/zephyr/include/zephyr'
+     - 'C:/ncs/main/zephyr/dts/common'
+     - 'C:/ncs/main/zephyr/dts/vendor'
+     - 'C:/ncs/main/zephyr/dts/rx'
+     - 'C:/ncs/main/zephyr/dts/x86'
+     - 'C:/ncs/main/zephyr/dts/xtensa'
+     - 'C:/ncs/main/zephyr/dts/sparc'
+     - 'C:/ncs/main/zephyr/dts/riscv'
+     - 'C:/ncs/main/zephyr/dts/posix'
+     - 'C:/ncs/main/zephyr/dts/arm64'
+     - 'C:/ncs/main/zephyr/dts/arm'
+     - 'C:/ncs/main/zephyr/dts/arc'
+     - 'C:/ncs/main/zephyr/dts'
+    user-files:
+     - 'C:/old_nrfprojects/WS2812_nrf54l15/led_strip/boards/xiao_nrf54l15_nrf54l15_cpuapp.overlay'
+  kconfig:
+    files:
+     - 'C:/ncs/main/zephyr/boards/seeed/xiao_nrf54l15/xiao_nrf54l15_nrf54l15_cpuapp_defconfig'
+     - 'C:/old_nrfprojects/WS2812_nrf54l15/led_strip/prj.conf'
+     - 'C:/old_nrfprojects/WS2812_nrf54l15/led_strip/build/led_strip/zephyr/.config.sysbuild'
+    user-files:
+     - 'prj.conf'
+  toolchain:
+    name: 'zephyr'
+    path: 'C:/ncs/toolchains/c1a76fddb2/opt/zephyr-sdk'
+  vendor-specific:
+    nordic:
+      svdfile: 'C:/ncs/main/modules/hal/nordic/nrfx/mdk/nrf54l15_application.svd'
+  zephyr:
+    version: '4.2.99'
+    zephyr-base: 'C:/ncs/main/zephyr'
+version: '0.1.0'

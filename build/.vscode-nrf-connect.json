@@ -1,0 +1,19 @@
+{
+  "toolchainPath": "c:\\ncs\\toolchains\\c1a76fddb2",
+  "sdkPath": "c:\\ncs\\main",
+  "board": "xiao_nrf54l15/nrf54l15/cpuapp",
+  "boardDir": "c:\\ncs\\main\\zephyr\\boards\\seeed\\xiao_nrf54l15",
+  "boardDirs": [
+    "c:\\ncs\\main\\zephyr\\boards\\seeed\\xiao_nrf54l15"
+  ],
+  "optimizations": "none",
+  "cmakeArgs": [],
+  "confFiles": [
+    "prj.conf"
+  ],
+  "buildDirectory": "build",
+  "kconfigFragments": [],
+  "snippets": [],
+  "dtcOverlays": [],
+  "extraDtcOverlays": []
+}
